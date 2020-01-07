@@ -1,0 +1,15 @@
+.loginC {
+  color: #3e3e3e;
+}
+#signUp {
+  margin-top: 10%;
+}
+#signUp h3 {
+  color: red;
+}
+#signUp h4 {
+  color: #3e3e3e;
+}
+#signUp input {
+  border-radius: 4px;
+}
